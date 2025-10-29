@@ -2,8 +2,6 @@
 
 Objective: Modify our “Hello World” application to replace the default content with a simple component that uses the JSX rules we just learned.
 
-Prompt for the code agent (Copilot/Gemini):
-
 Context:
 
 Objective: Practice basic JSX rules.
